@@ -1,0 +1,19 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Base body */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #0f172a;
+  color: white;
+  line-height: 1.6;
+}
